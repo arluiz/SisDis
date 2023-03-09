@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/luiz/Dropbox/workspace/SisDis/src/br/unioeste/sisdis/fd/all2all/AllToAllFDAsynch.java</file>
+            <file>file:/home/luiz/Dropbox/workspace/SisDis/src/br/unioeste/sisdis/fd/all2all/AllToAllFD.java</file>
+            <file>file:/home/luiz/Dropbox/workspace/SisDis/src/br/unioeste/sisdis/crash/CrashProtocol.java</file>
+            <file>file:/home/luiz/Dropbox/workspace/SisDis/src/br/unioeste/sisdis/fd/AbstractFailureDetector.java</file>
+            <file>file:/home/luiz/Dropbox/workspace/SisDis/src/br/unioeste/sisdis/fd/vcube/VCubeData.java</file>
+            <file>file:/home/luiz/Dropbox/workspace/SisDis/src/br/unioeste/sisdis/fd/vcube/VCubeFDAsynch.java</file>
+            <file>file:/home/luiz/Dropbox/workspace/SisDis/src/br/unioeste/sisdis/fd/vcube/VCubeFD.java</file>
+            <file>file:/home/luiz/Dropbox/workspace/SisDis/src/br/unioeste/sisdis/fd/all2all/AllToAllFDInitializer.java</file>
+        </group>
+    </open-files>
+</project-private>
